@@ -1,0 +1,9 @@
+list1=[1,2,3,4,5,6,7,8,9]
+print(list1)
+print(list1[0])
+print(list1[1:8])
+print(list1[2:])
+tuple1=("name","id","branch",1,2,3,4,5)
+print(tuple1)
+print(tuple1[2])
+print(tuple1[1:])
